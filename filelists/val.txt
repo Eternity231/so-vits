@@ -1,0 +1,2 @@
+./dataset/32k/speaker0/vo_SGLQ103_3_raidenShogun_08.wav
+./dataset/32k/speaker0/vo_SGLQ003_2_raidenEi_18.wav

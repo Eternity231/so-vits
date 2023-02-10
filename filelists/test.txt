@@ -1,0 +1,10 @@
+./dataset/32k/speaker0/vo_SGLQ001_5_raidenEi_23.wav
+./dataset/32k/speaker0/vo_SGLQ004_3_raidenEi_15.wav
+./dataset/32k/speaker0/vo_SGLQ004_4_raidenEi_05.wav
+./dataset/32k/speaker0/vo_SGLQ002_9_raidenEi_02b_2.wav
+./dataset/32k/speaker0/vo_SGLQ101_4_raidenEi_32.wav
+./dataset/32k/speaker0/vo_SGLQ004_4_raidenEi_09.wav
+./dataset/32k/speaker0/vo_SGLQ101_4_raidenEi_31.wav
+./dataset/32k/speaker0/vo_SGLQ001_5_raidenEi_21.wav
+./dataset/32k/speaker0/vo_raidenEi_spice_pref_01.wav
+./dataset/32k/speaker0/vo_SGLQ002_1_raidenEi_01.wav
